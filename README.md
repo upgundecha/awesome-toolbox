@@ -89,6 +89,7 @@
 - [JD-GUI](http://java-decompiler.github.io/) - _Java_
 - [ILSpy](https://github.com/icsharpcode/ILSpy) - _.NET_
 - [adb](https://developer.android.com/studio/command-line/adb) - _Android_
+- [BrowserMob Proxy](https://github.com/lightbody/browsermob-proxy)
 
 ## Open source load testing tools to build blazingly fast applications
 - [JMeter](https://jmeter.apache.org/)
@@ -126,6 +127,7 @@
 - [Playwright](https://github.com/microsoft/playwright)
 - [Testcafe](https://devexpress.github.io/testcafe/)
 - [Taiko](https://github.com/getgauge/taiko)
+- [UIlicious](https://uilicious.com/) - _Paid_
 
 ## Five essential tools for Developers on macOS
 - [iTerm2](https://www.iterm2.com/)
