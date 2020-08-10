@@ -15,16 +15,16 @@
 * [pyFirmata](https://pypi.org/project/pyFirmata/)
 
 ## Free and open source tools for checking visual regression bugs
-* [Gemnini - Hermione](https://github.com/gemini-testing/hermione) - Hermione is a utility for integration testing of web pages using WebdriverIO v4 and Mocha. Comes with assertions to support visual regression testing.
-* [Backstop.js](https://garris.github.io/BackstopJS/) - Node.js visual regression testing for web apps. Uses Chrome-headless and Puppeteer scripting.
-* [Needle](https://needle.readthedocs.io/en/latest/) - Needle is a tool for testing  CSS and visuals with Selenium and nose using Python.
-* [pix-diff](https://www.npmjs.com/package/pix-diff) - A lightweight protractor plugin for image comparison.
-* [Visual Regression Tracker](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker) - Open source, self hosted solution for visual testing and managing results of visual testing.
-* [Storyshots](https://github.com/storybookjs/storybook/tree/master/addons/storyshots) - StoryShots is integration between [Storybook.js](https://storybook.js.org/) and [Jest](https://jestjs.io/) Snapshot Testing.
-* [Galen](http://galenframework.com/) - Automated testing of look and feel for your responsive websites. Galen is implemented in Java.
-* [Loki](https://loki.js.org/) - Tool to test [Storybook.js](https://storybook.js.org/) project for visual regressions.
-* [Creevy](https://github.com/wKich/creevey) - Tool to test [Storybook.js](https://storybook.js.org/) project for visual regressions.
-* [Vizregress](https://github.com/chwilliamson/Vizregress) - A visual regressions tool on .NET platform
+* [Gemnini - Hermione](https://github.com/gemini-testing/hermione) - _Hermione is a utility for integration testing of web pages using WebdriverIO v4 and Mocha. Comes with assertions to support visual regression testing._
+* [Backstop.js](https://garris.github.io/BackstopJS/) - _Node.js visual regression testing for web apps. Uses Chrome-headless and Puppeteer scripting._
+* [Needle](https://needle.readthedocs.io/en/latest/) - _Needle is a tool for testing  CSS and visuals with Selenium and nose using Python._
+* [pix-diff](https://www.npmjs.com/package/pix-diff) - _A lightweight protractor plugin for image comparison._
+* [Visual Regression Tracker](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker) - _Open source, self hosted solution for visual testing and managing results of visual testing._
+* [Storyshots](https://github.com/storybookjs/storybook/tree/master/addons/storyshots) - _StoryShots is integration between [Storybook.js](https://storybook.js.org/) and [Jest](https://jestjs.io/) Snapshot Testing._
+* [Galen](http://galenframework.com/) - _Automated testing of look and feel for your responsive websites. Galen is implemented in Java._
+* [Loki](https://loki.js.org/) - _Tool to test [Storybook.js](https://storybook.js.org/) project for visual regressions._
+* [Creevy](https://github.com/wKich/creevey) - _Tool to test [Storybook.js](https://storybook.js.org/) project for visual regressions._
+* [Vizregress](https://github.com/chwilliamson/Vizregress) - _A visual regressions tool on .NET platform_
 
 ## Great developer tools made with Electron.js
 - [VSCode]()
