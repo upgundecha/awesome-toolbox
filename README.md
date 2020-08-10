@@ -1,4 +1,4 @@
-# Awesome Engineering Blogs, Handbooks and GitHub Repos [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome awesome tools for software development, testing and productivity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![Alt](banner.png "banner")
 
@@ -170,5 +170,3 @@ Bob -> Alice: Hi!
 -->
 
 ![](firstDiagram.svg)
-
-Test
