@@ -16,7 +16,7 @@
 
 ## Free and open source tools for checking visual regression bugs
 * [Gemnini - Hermione](https://github.com/gemini-testing/hermione) - _Hermione is a utility for integration testing of web pages using WebdriverIO v4 and Mocha. Comes with assertions to support visual regression testing._
-* [Backstop.js](https://garris.github.io/BackstopJS/) - _Node.js visual regression testing for web apps. Uses Chrome-headless and Puppeteer scripting._
+* [Backstop.js](https://garris.github.io/BackstopJS/) - _visual regression testing for web apps. Uses Chrome-headless and Puppeteer scripting using JavaScript._
 * [Needle](https://needle.readthedocs.io/en/latest/) - _Needle is a tool for testing  CSS and visuals with Selenium and nose using Python._
 * [pix-diff](https://www.npmjs.com/package/pix-diff) - _A lightweight protractor plugin for image comparison._
 * [Visual Regression Tracker](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker) - _Open source, self hosted solution for visual testing and managing results of visual testing._
@@ -47,82 +47,84 @@
 - [dummy-json](https://www.npmjs.com/package/dummy-json)
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 
+
 ## Open source and free HTTP mocking, stubbing and service virtualisation tools to speed up your development and testing
-- [JSON Server]()
-- [Wiremock]()
-- [MockServer]()
-- [MonteBank]()
-- [Stubby4j]()
-- [Nock]()
-- [Mokcy]()
-- [Pact.js]()
-- [qontract.run]()
-- [Mockoon]()
-- [LocalMockServer]()
-- [mockserver-ui]()
-- [wiremock-ui]()
-- [Atmo]()
-- [Mocker]()
+- [JSON Server](https://github.com/typicode/json-server)
+- [My JSON Server](https://my-json-server.typicode.com/)
+- [Wiremock](http://wiremock.org/)
+- [MockServer](https://www.mock-server.com/)
+- [MounteBank](http://www.mbtest.org/)
+- [Stubby4j](https://github.com/azagniotov/stubby4j)
+- [Nock](https://github.com/nock/nock)
+- [Mokcy](https://designer.mocky.io/)
+- [Pact.js](https://github.com/pact-foundation)
+- [qontract.run](https://qontract.run/)
+- [Mockoon](https://mockoon.com/)
+- [LocalMockServer](https://github.com/jayakumarreddy/Local-Mock-Server/)
+- [mockserver-ui](https://github.com/mock-server/mockserver-ui)
+- [wiremock-ui](https://github.com/plouc/wiremock-ui)
+- [Atmo](https://github.com/Raathigesh/atmo)
+- [Castlemock](https://github.com/castlemock/castlemock)
 
 ## Tools for Behaviour Driven Development (BDD)
-- [Cucumber]()
-- [JBehave]()
-- [SpecFlow.NET]()
-- [Behave]() - Python
-- [Lettuce]() - Python
-- [Behat]() - PHP
-- [Spek]() - Kotlin
-- [EasyB]() - Jvm
-- [Cucumberish]() - Xcode
-- [Serenity BDD]() -
+- [Cucumber](https://cucumber.io/) - _Java, Ruby, JavaScript, TypeScript, Go_
+- [JBehave](https://jbehave.org/) - _Java_
+- [SpecFlow.NET](https://specflow.org/) - _.NET_
+- [Behave](https://pypi.org/project/behave/) - _Python_
+- [Lettuce](https://pypi.org/project/lettuce/) - _Python_
+- [Behat](https://docs.behat.org/en/latest/) - _PHP._
+- [Spek](https://www.spekframework.org/) - _Kotlin_
+- [EasyB](http://www.easyb.io/) - _JVM_
+- [Cucumberish](https://github.com/Ahmed-Ali/Cucumberish) - _Xcode_
+- [Serenity BDD](http://www.thucydides.info/#/) - _Java, JavaScript_
 
 ## Cool x-ray tools to Debug, Test or Investigate software and apps
-- [Fiddler]()
-- [Charles Proxy]()
-- [Wireshark]()
-- [React Developer Tools]()
-- [Augury]()
-- [Vu-devtools]()
-- [JD-GUI]()
-- [ILSpy]()
-- [adb]()
+- [Fiddler](https://www.telerik.com/fiddler)
+- [Charles Proxy](https://www.charlesproxy.com/) - _Paid_
+- [Wireshark](https://www.wireshark.org/)
+- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+- [Augury](https://augury.rangle.io/)
+- [Vu-devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en)
+- [JD-GUI](http://java-decompiler.github.io/) - _Java_
+- [ILSpy](https://github.com/icsharpcode/ILSpy) - _.NET_
+- [adb](https://developer.android.com/studio/command-line/adb) - _Android_
 
 ## Open source load testing tools to build blazingly fast applications
-- [JMeter]()
-- [Locust]()
-- [Artillery]()
-- [k6]()
-- [Gatling]()
+- [JMeter](https://jmeter.apache.org/)
+- [Locust](https://locust.io/) - _Uses Python_
+- [Artillery](https://artillery.io/) - _Uses JavaScript_
+- [k6](https://k6.io/) - _Uses JavaScript_
+- [Gatling](https://gatling.io/) - _Uses Scala_
 
 ## Top Infrastructure as Code (IaC) tools for AWS Cloud
-- [AWS CloudFormation]()
-- [AWS CDK]()
-- [Terraform]()
-- [Pulumi]()
+- [AWS CloudFormation](https://aws.amazon.com/cloudformation/)
+- [AWS CDK](https://aws.amazon.com/cdk/)
+- [Terraform](https://www.terraform.io/
+- [Pulumi](https://www.pulumi.com/)
 
 ## Make your automated tests eloquent with these awesome assertion libraries in Java and Kotlin
-- [AssertJ]()
-- [Hamcrest]()
-- [Truth]()
-- [Strikt]()
-- [Atrium]()
+- [AssertJ](https://assertj.github.io/doc/)
+- [Hamcrest](http://hamcrest.org/) - _also supported on multiple other languages_
+- [Truth](https://github.com/google/truth) - _Java & Android_
+- [Strikt](https://strikt.io/) - _Kotlin_
+- [Atrium](https://docs.atriumlib.org/) - _Kotlin_
 
 ## Five Java Libraries to amplify your automated testing
-- [JSONUnit]()
-- [XMLUnit]()
-- [DBUnit]()
-- [ArchUnit]()
-- [PDFUnit]()
+- [JSONUnit](https://github.com/lukas-krecan/JsonUnit)
+- [XMLUnit](https://github.com/xmlunit/xmlunit)
+- [DBUnit](http://dbunit.sourceforge.net/)
+- [ArchUnit](https://www.archunit.org/) - _Tests architecture aspects of Java Code_
+- [PDFUnit](http://www.pdfunit.com/) - _Paid_
 
 ## Eight e2e testing tools for Node.js, JavaScript and TypeScript
-- [Cypress.io]()
-- [Webdriver.io]()
-- [Nightswatch.js]()
-- [Codecepts.js]()
-- [Puppeteer]()
-- [Playwright]()
-- [Testcafe]()
-- [Taiko]()
+- [Cypress.io](https://www.cypress.io/)
+- [Webdriver.io](https://webdriver.io/)
+- [Nightwatch.js](https://nightwatchjs.org/)
+- [Codecept.js](https://codecept.io/)
+- [Puppeteer](https://github.com/puppeteer/puppeteer)
+- [Playwright](https://github.com/microsoft/playwright)
+- [Testcafe](https://devexpress.github.io/testcafe/)
+- [Taiko](https://github.com/getgauge/taiko)
 
 ## Five essential tools for Developers on macOS
 - [iTerm2](https://www.iterm2.com/)
@@ -151,6 +153,8 @@
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+Please do contribute your success stories, experience reports, blogs, videos or anecdotes of using these tools as Issues (I have added special tags)
 
 ## License
 
