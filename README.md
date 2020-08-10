@@ -2,8 +2,9 @@
 
 ![Alt](banner.png "banner")
 
-> A curated list of awesome tools for software development, testing and productivity published on my ![Twitter Follow](https://img.shields.io/twitter/follow/upgundecha?style=social)
+### A curated list of awesome tools for software development, testing and productivity published on my ![Twitter Follow](https://img.shields.io/twitter/follow/upgundecha?style=social)
 
+> Please do contribute your success stories, experience reports, blogs, videos or anecdotes of using these tools as [Issues](https://github.com/upgundecha/awesome-toolbox/issues) with special tags
 
 ## Build cool IoT projects with Arduino tools
 * [Arduino IDE](https://www.arduino.cc/en/main/software) - _The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board. It runs on Windows, Mac OS X, and Linux. The environment is written in Java and based on Processing and other open-source software._
@@ -153,8 +154,6 @@
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
-Please do contribute your success stories, experience reports, blogs, videos or anecdotes of using these tools as Issues (I have added special tags)
 
 ## License
 
