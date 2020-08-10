@@ -1,308 +1,151 @@
-# Awesome Engineering Blogs, Handbooks and GitHub Repos [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![CI](https://github.com/upgundecha/awesome-engineering/workflows/CI/badge.svg?branch=master) ![Check Markdown links](https://github.com/upgundecha/awesome-engineering/workflows/Check%20Markdown%20links/badge.svg) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) ![Twitter Follow](https://img.shields.io/twitter/follow/AwesomeEngBot?style=social)
+# Awesome Engineering Blogs, Handbooks and GitHub Repos [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![Alt](banner.png "banner")
 
-> A curated list of awesome engineering blogs, handbooks and open source repos from top technology companies
+> A curated list of awesome tools for software development, testing and productivity published on my [Twitter](https://www.twitter.com/upgundecha)
 
-## Contents
 
-* [Airbnb](#airbnb)
-* [Amazon](#amazon)
-* [Apple](#apple)
-* [Asana](#asana)
-* [Atlassian](#atlassian)
-* [Basecamp](#basecamp)
-* [BBC](#bbc)
-* [CapitalOne](#capitalone)
-* [CircleCI](#circleci)
-* [Deliveroo](#deliveroo)
-* [Elastic](#elastic)
-* [Etsy](#etsy)
-* [Facebook](#facebook)
-* [Grab](#grab)
-* [Grammarly](#grammarly)
-* [GitHub](#github)
-* [GitLab](#gitlab)
-* [Google](#google)
-* [Gojek](#gojek)
-* [GovTech Singapore](#govtech-singapore)
-* [Hashicorp](#hashicorp)
-* [IBM](#ibm)
-* [Instagram](#instagram)
-* [LinkedIn](#linkedin)
-* [Lyft](#lyft)
-* [MadeTech](#madetech)
-* [Microsoft](#microsoft)
-* [Monzo](#monzo)
-* [Netflix](#netflix)
-* [Paypal](#paypal)
-* [Postman](#postman)
-* [Salesforce](#salesforce)
-* [Shopify](#shopify)
-* [Slack](#slack)
-* [Spotify](#spotify)
-* [Stack Overflow](#stack-overflow)
-* [Stripe](#stripe)
-* [TravisCI](#travisci)
-* [The Guardian](#the-guardian)
-* [Twitter](#twitter)
-* [Uber](#uber)
-* [Walmart Labs](#walmart-labs)
-* [Wix Engineering](#wix-engineering)
-* [Zozo Technologies](#zozo-technologies)
+## Build cool IoT projects with Arduino tools
+* [Arduino IDE](https://www.arduino.cc/en/main/software)
+* [Codebender](https://codebender.cc/)
+* [Fritzing](https://fritzing.org/)
+* [circuito.io](https://www.circuito.io/)
+* [Tinkercad](https://www.tinkercad.com/)
+* [johnny-five](http://johnny-five.io/)
+* [pyFirmata](https://pypi.org/project/pyFirmata/)
+
+## Free and open source tools for checking visual regression bugs
+* [Gemnini - Hermione](https://github.com/gemini-testing/hermione) - Hermione is a utility for integration testing of web pages using WebdriverIO v4 and Mocha. Comes with assertions to support visual regression testing.
+* [Backstop.js](https://garris.github.io/BackstopJS/) - Node.js visual regression testing for web apps. Uses Chrome-headless and Puppeteer scripting.
+* [Needle](https://needle.readthedocs.io/en/latest/) - Needle is a tool for testing  CSS and visuals with Selenium and nose using Python.
+* [pix-diff](https://www.npmjs.com/package/pix-diff) - A lightweight protractor plugin for image comparison.
+* [Visual Regression Tracker](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker) - Open source, self hosted solution for visual testing and managing results of visual testing.
+* [Storyshots](https://github.com/storybookjs/storybook/tree/master/addons/storyshots) - StoryShots is integration between [Storybook.js](https://storybook.js.org/) and [Jest](https://jestjs.io/) Snapshot Testing.
+* [Galen](http://galenframework.com/) - Automated testing of look and feel for your responsive websites. Galen is implemented in Java.
+* [Loki](https://loki.js.org/) - Tool to test [Storybook.js](https://storybook.js.org/) project for visual regressions.
+* [Creevy](https://github.com/wKich/creevey) - Tool to test [Storybook.js](https://storybook.js.org/) project for visual regressions.
+* [Vizregress](https://github.com/chwilliamson/Vizregress) - A visual regressions tool on .NET platform
+
+## Great developer tools made with Electron.js
+- [VSCode]()
+- [Postman]()
+- [Cypress.io]()
+- [Insomania]()
+- [Appium Desktop]()
+- [Mockoon]()
+- [Postbird]()
+- [MongoDB Commpass]()
+
+## Free and open source tools to get rid of your testing data woes
+- [Mockaroo]()
+- [JSON Generator]()
+- [Generatedata]()
+- [faker for Node]()
+- [faker for Java]()
+- [faker for Python]()
+- [faker for Ruby]()
+- [dummy-json]()
+
+## Open source and free HTTP mocking, stubbing and service virtualisation tools to speed up your development and testing
+- [JSON Server]()
+- [Wiremock]()
+- [MockServer]()
+- [MonteBank]()
+- [Stubby4j]()
+- [Nock]()
+- [Mokcy]()
+- [Pact.js]()
+- [qontract.run]()
+- [Mockoon]()
+- [LocalMockServer]()
+- [mockserver-ui]()
+- [wiremock-ui]()
+- [Atmo]()
+- [Mocker]()
+
+## Tools for Behaviour Driven Development (BDD)
+- [Cucumber]()
+- [JBehave]()
+- [SpecFlow.NET]()
+- [Behave]() - Python
+- [Lettuce]() - Python
+- [Behat]() - PHP
+- [Spek]() - Kotlin
+- [EasyB]() - Jvm
+- [Cucumberish]() - Xcode
+- [Serenity BDD]() -
+
+## Cool x-ray tools to Debug, Test or Investigate software and apps
+- [Fiddler]()
+- [Charles Proxy]()
+- [Wireshark]()
+- [React Developer Tools]()
+- [Augury]()
+- [Vu-devtools]()
+- [JD-GUI]()
+- [ILSpy]()
+- [adb]()
+
+## Open source load testing tools to build blazingly fast applications
+- [JMeter]()
+- [Locust]()
+- [Artillery]()
+- [k6]()
+- [Gatling]()
+
+## Top Infrastructure as Code (IaC) tools for AWS Cloud
+- [AWS CloudFormation]()
+- [AWS CDK]()
+- [Terraform]()
+- [Pulumi]()
+
+## Make your automated tests eloquent with these awesome assertion libraries in Java and Kotlin
+- [AssertJ]()
+- [Hamcrest]()
+- [Truth]()
+- [Strikt]()
+- [Atrium]()
+
+## Five Java Libraries to amplify your automated testing
+- [JSONUnit]()
+- [XMLUnit]()
+- [DBUnit]()
+- [ArchUnit]()
+- [PDFUnit]()
+
+## Eight e2e testing tools for Node.js, JavaScript and TypeScript
+- [Cypress.io]()
+- [Webdriver.io]()
+- [Nightswatch.js]()
+- [Codecepts.js]()
+- [Puppeteer]()
+- [Playwright]()
+- [Testcafe]()
+- [Taiko]()
+
+## Five essential tools for Developers on macOS
+- [iTerm]()
+- [Homebrew]()
+- [VSCode]()
+- [Postman]()
+- [Docker Desktop]()
+
+## Six tools to run effective remote and virtual online retrospective meetings for Agile delivery teams
+- [IdeaBoardz]()
+- [FunRetro]()
+- [Trello]()
+- [MIRO]()
+- [TeamRetro]()
+- [Retro.tools]()
+
+## Top five Continuous Integration (CI) tools to supercharge your builds
+- [Jenkins]()
+- [GitHub Actions]()
+- [GitLab CI]()
+- [Circle CI]()
+- [Travis CI]()
 
 ---
-
-## Airbnb
-
-* [Blog](https://medium.com/airbnb-engineering)
-* [GitHub Page](https://github.com/airbnb)
-
-## Amazon
-
-* [Blog](https://developer.amazon.com/blogs)
-* [GitHub Page](https://github.com/amzn)
-
-## Apple
-
-* [GitHub Page](https://github.com/apple)
-* [Culture: The Original Macintosh](https://www.folklore.org/) - _Anecdotes about the development of  original Macintosh, and the people who made it_
-
-## Asana
-
-* [Blog](https://blog.asana.com/category/eng/)
-* [Engineering Culture](https://blog.asana.com/category/eng-culture/)
-* [GitHub Page](https://github.com/Asana)
-* [Publication: wavelength](https://wavelength.asana.com)
-
-## Atlassian
-
-* [Blog](https://www.atlassian.com/blog/atlassian-engineering)
-* [GitHub Page](https://github.com/atlassian)
-
-## Basecamp
-
-* [Blog](https://m.signalvnoise.com/)
-* [GitHub Page](https://github.com/basecamp)
-* [Handbook](https://github.com/basecamp/handbook)
-* Books
-  * [Shape Up: Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup)
-  * [It Doesn't Have to Be Crazy at Work](https://basecamp.com/books/calm)
-  * [REWORK](https://basecamp.com/books/rework)
-  * [REMOTE](https://basecamp.com/books/remote)
-  * [Getting Real](https://basecamp.com/books/getting-real)
-
-## BBC
-
-* [Blog](https://www.bbc.co.uk/blogs/internet)
-* [GitHub Page](https://github.com/bbc)
-
-## CapitalOne
-
-* [Blog](https://medium.com/capital-one-tech)
-* [GitHub Page](https://github.com/capitalone)
-
-## CircleCI
-
-* [Blog](https://circleci.com/blog/tag/engineering/)
-* [GitHub Page](https://github.com/circleci)
-
-## Deliveroo
-
-* [Blog](https://deliveroo.engineering/)
-* [GitHub Page](https://github.com/deliveroo)
-
-## Elastic
-
-* [Blog](https://www.elastic.co/blog/category/engineering)
-* [Culture](https://www.elastic.co/blog/category/culture)
-* [GitHub Page](https://github.com/elastic)
-
-## Etsy
-
-* [Blog](https://codeascraft.com/)
-* [GitHub Page](https://github.com/etsy)
-
-## Facebook
-
-* [Blog](https://engineering.fb.com/)
-* [GitHub Page](https://github.com/facebook)
-
-## Grab
-
-* [Blog](https://engineering.grab.com/)
-* [GitHub Page](https://github.com/grab)
-
-## Grammarly
-
-* [Blog](https://www.grammarly.com/blog/engineering/)
-* [GitHub Page](https://github.com/grammarly)
-
-## GitHub
-
-* [Blog](https://github.blog/category/engineering/)
-* [GitHub Page](https://github.com/github)
-
-## GitLab
-
-* [Blog](https://about.gitlab.com/blog/categories/engineering/)
-* [Handbook](https://about.gitlab.com/handbook/)
-
-## Google
-
-* [Blog](https://developers.googleblog.com/)
-* [Engineering Practices Guide](https://google.github.io/eng-practices/)
-* [GitHub Page](https://github.com/google)
-* [Google TechDev Guide](https://techdevguide.withgoogle.com/) - _Guide to Technical Development and Software Engineering at Google_
-* [re:Work with Google](https://rework.withgoogle.com/) - _re:Work is a collection of practices, research, and ideas from Google and others to help you put people first_
-* Books
-  * [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
-  * [Site Reliability Engineering (SRE) Books](https://landing.google.com/sre/books/)
-  * [How Google Tests Software](https://www.oreilly.com/library/view/how-google-tests/9780132851572/)
-
-## Gojek
-
-* [Blog](https://blog.gojekengineering.com/)
-* [GitHub Page](https://github.com/gojek)
-
-## GovTech Singapore
-
-* [Blog](https://www.tech.gov.sg/media/blogs/listing)
-* [GitHub Page](https://github.com/GovTechSG)
-
-## Hashicorp
-
-* [Blog](https://medium.com/hashicorp-engineering)
-* [GitHub Pages](https://github.com/hashicorp)
-
-## IBM
-
-* [Blog](https://developer.ibm.com/blogs/)
-* [GitHub Page](https://github.com/IBM)
-
-## Instagram
-
-* [Blog](https://instagram-engineering.com/)
-* [GitHub Page](https://github.com/Instagram)
-
-## LinkedIn
-
-* [Blog](https://engineering.linkedin.com/blog)
-* [GitHub Page](https://github.com/linkedin)
-
-## Lyft
-
-* [Blog](https://eng.lyft.com/)
-* [GitHub Page](https://github.com/lyft)
-
-## MadeTech
-
-* [Blog](https://www.madetech.com/blog)
-* [GitHub Page](https://github.com/madetech)
-* [Handbook](https://github.com/madetech/handbook)
-* Books
-  * [Building High Performance Agile Teams](https://www.madetech.com/resources/books/building-high-performance-agile-teams)
-
-## Microsoft
-
-* [Blog](https://devblogs.microsoft.com/)
-* [GitHub Page](https://github.com/microsoft)
-
-## Monzo
-
-* [Blog](https://monzo.com/blog/technology)
-* [GitHub Page](https://github.com/monzo)
-
-## Netflix
-
-* [Blog](https://netflixtechblog.com/)
-* [GitHub Page](https://github.com/Netflix)
-* [Handbook](https://jobs.netflix.com/culture)
-
-## Paypal
-
-* [Blog](https://medium.com/paypal-engineering)
-* [GitHub Page](https://github.com/paypal)
-
-## Postman
-
-* [Blog](https://medium.com/better-practices)
-* [GitHub Page](https://github.com/postmanlabs)
-
-## Salesforce
-
-* [Blog](https://developer.salesforce.com/blogs/engineering/)
-* [GitHub Page](https://github.com/salesforce)
-
-## Shopify
-
-* [Blog](https://engineering.shopify.com/)
-* [GitHub Page](https://github.com/Shopify)
-
-## Slack
-
-* [Blog](https://slack.engineering/)
-* [GitHub Page](https://github.com/slackhq)
-
-## Spotify
-
-* [Blog](https://labs.spotify.com/)
-* [GitHub Page](https://github.com/Spotify)
-
-## Stack Overflow
-
-* [Blog](https://stackoverflow.blog/engineering/)
-* [GitHub Page](https://github.com/StackExchange)
-
-## Stripe
-
-* [Blog](https://stripe.com/blog/engineering)
-* [GitHub Page](https://github.com/stripe)
-* [Magazine: Increment](http://increment.com/) - _A quarterly magazine on Software Engineering topics_
-
-## TravisCI
-
-* [Blog](https://blog.travis-ci.com/)
-* [GitHub Page](https://github.com/travis-ci)
-
-## The Guardian
-
-* [Blog](https://www.theguardian.com/info/series/digital-blog)
-* [GitHub Page](https://github.com/guardian)
-
-## Twitter
-
-* [Blog](https://blog.twitter.com/engineering/en_us.html)
-* [GitHub Page](https://github.com/twitter)
-
-## Uber
-
-* [Blog](https://eng.uber.com/)
-* [GitHub Page](https://github.com/uber)
-
-## Walmart Labs
-
-* [Blog](https://medium.com/walmartlabs)
-* [GitHub Page](https://github.com/walmartlabs)
-
-## Wix Engineering
-
-* [Blog](https://www.wix.engineering/blog)
-* [GitHub Page](https://github.com/wix)
-
-## Zozo Technologies
-
-Zozo Technologies is a Japanese tech firm
-
-* [Blog](https://techblog.zozo.com/)
-* [GitHub Page](https://github.com/st-tech)
-
----
-
-## Credits
-
-* Banner image used from [https://undraw.co/](https://undraw.co/)
-* [Docup](https://github.com/egoist/docup) to create the website inspired from [howtheytest-jp](https://github.com/tadashi0713/howtheytest-jp)
 
 ## Contribute
 
