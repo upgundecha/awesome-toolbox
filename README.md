@@ -1,4 +1,4 @@
-# Awesome awesome tools for software development, testing and productivity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome tools for software development, testing and productivity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ![Alt](banner.png "banner")
 
@@ -6,6 +6,38 @@
 
 > Please do contribute your success stories, experience reports, blogs, videos or anecdotes of using these tools as [Issues](https://github.com/upgundecha/awesome-toolbox/issues) with special tags
 
+## Five free and open source tools to test your mailing features confidently
+* [FakeSMTP (Java)](http://nilhcem.com/FakeSMTP/)
+* [rumbster (Ruby)](https://github.com/aesterline/rumbster)
+* [fake-smtp-server (Node.js)](https://www.npmjs.com/package/fake-smtp-server)
+* [mailinator](https://www.mailinator.com/)
+* [testmail dot app](https://testmail.app/)
+* [mailtrap](https://mailtrap.io/)
+
+## Build personal robotic process automation with these cool tools
+* Windows
+  * [Powershell](https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7)
+  * [Batch](https://www.windowscentral.com/how-create-and-run-batch-file-windows-10)
+  * [AutoIt](https://www.autoitscript.com/site/)
+  * [AutoHotKey](https://www.autoitscript.com/site/)
+  * [VBScript](https://en.wikipedia.org/wiki/VBScript)
+* Mac
+  * [Automator](https://support.apple.com/en-gb/guide/automator/welcome/mac)
+  * [Apple Script](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html)
+* iOS
+  * [Shortcuts App](https://apps.apple.com/us/app/shortcuts/id915249334)
+* Unix/Linux
+  * [Bash](https://www.gnu.org/software/bash/)
+  * [Sed](https://www.gnu.org/software/sed/manual/sed.html)
+  * [Awk](https://www.gnu.org/software/gawk/manual/gawk.html)
+  * [Expect](https://wiki.tcl-lang.org/page/Expect)
+  * [Cron Tab](https://en.wikipedia.org/wiki/Cron)
+* Web
+  * [IFTT](https://ifttt.com)
+  * [Zapier](https://zapier.com/)
+  * [Automate.io](https://automate.io/)
+  * [huginn](https://github.com/huginn/huginn)
+ 
 ## Build cool IoT projects with Arduino tools
 * [Arduino IDE](https://www.arduino.cc/en/main/software) - _The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board. It runs on Windows, Mac OS X, and Linux. The environment is written in Java and based on Processing and other open-source software._
 * [Codebender](https://codebender.cc/) - _Arduino IDE in the Cloud. Codebender includes a Arduino web editor so you can code, store and manage your Arduino sketches on the cloud._
@@ -101,7 +133,7 @@
 ## Top Infrastructure as Code (IaC) tools for AWS Cloud
 - [AWS CloudFormation](https://aws.amazon.com/cloudformation/)
 - [AWS CDK](https://aws.amazon.com/cdk/)
-- [Terraform](https://www.terraform.io/
+- [Terraform](https://www.terraform.io/)
 - [Pulumi](https://www.pulumi.com/)
 
 ## Make your automated tests eloquent with these awesome assertion libraries in Java and Kotlin
