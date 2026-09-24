@@ -78,6 +78,7 @@
 - [faker for Python](https://pypi.org/project/Faker/)
 - [faker for Ruby](https://github.com/faker-ruby/faker)
 - [dummy-json](https://www.npmjs.com/package/dummy-json)
+- [Mock Jutsu - checksum-valid financial test data](https://github.com/altansayan/mock-jutsu-api)
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 
 
