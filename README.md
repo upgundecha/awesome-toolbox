@@ -21,6 +21,8 @@
   * [AutoIt](https://www.autoitscript.com/site/)
   * [AutoHotKey](https://www.autoitscript.com/site/)
   * [VBScript](https://en.wikipedia.org/wiki/VBScript)
+  * [LatchLayout](https://github.com/stanczykwyatt/latchlayout) - Windows 11 preview for opening apps, browser profiles, and URLs in chosen display layouts with a configurable hold shortcut.
+
 * Mac
   * [Automator](https://support.apple.com/en-gb/guide/automator/welcome/mac)
   * [Apple Script](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html)
